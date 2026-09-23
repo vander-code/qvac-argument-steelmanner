@@ -10,6 +10,8 @@ There is no cloud call, no API key, and no data ever leaves your machine.
 
 ## How it works
 
+It will help you especially when it comes to debate
+
 - A small Node.js/Express server loads a language model locally using the
   `@qvac/sdk` package (`loadModel`).
 - When you submit an opinion from the web page, the server calls the model's
